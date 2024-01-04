@@ -1,0 +1,42 @@
+*{
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    font-size: 50px;
+    text-align: center;
+    background-color: aqua;
+    color: hotpink;
+    border: 10px solid greenyellow;
+    border-radius: 10px;
+    
+}
+
+.section{
+    display: flex;
+    border: 40px solid rebeccapurple;
+    border-radius: 15px;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    padding: 40px;
+}
+
+.section1, .section2, .section3{
+    border: 20px solid grey;
+    border-radius: 15px;
+    padding: 10px;
+    text-align: justify;
+}
+
+
+.table, tr, th, td{
+    border: 2px solid mediumblue;
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+.list{
+    
+}
